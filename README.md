@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanMed375
-- 👀 I’m interested in making hard projects
+- 👀 I’m interested in making different projects but currently just learning basics.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: ivanmedvedev@gmail.com
 
